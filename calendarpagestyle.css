@@ -1,0 +1,90 @@
+
+<html>
+<head>
+<style>
+
+
+
+.ms-core-pageTitle, .ms-core-pageTitle a {
+
+font-size: 57px;
+visibility: visible !important;
+
+}
+
+
+
+.ms-belltown-sideNavDelta > * {
+
+display: none;
+
+}
+
+
+
+.ms-core-listMenu-horizontalBox ul, .ms-core-listMenu-horizontalBox li, .ms-core-listMenu-horizontalBox .ms-core-listMenu-item, .ms-core-listMenu-horizontalBox > ul > li > table {
+
+margin-top: 6px;
+
+}
+
+
+
+
+#sideNavBox {
+
+background-color: #a4a9ad;
+margin-right: 15px;
+max-width: 200px;
+max-height: 300px; 
+}
+
+
+
+
+a, .ms-link:visited {
+
+color: #636466;
+}
+
+
+
+.ms-core-listMenu-horizontalBox a.ms-core-listMenu-item:hover, .ms-core-listMenu-horizontalBox a.ms-core-listMenu-selected.ms-core-listMenu-item:hover, a.ms-tv-item:hover, a.ms-tv-header:hover {
+
+color: #636466;
+}
+
+
+
+#DatePickerDiv{
+
+background-color: #ffffff;
+padding-bottom: 13px;
+
+}
+
+
+
+
+.ms-pub-contentLayout {
+
+min-width: 900px;
+max-width: 900px;
+border-style: solid;
+    border-color: #a4a9ad;
+    border-width: 8px;
+    margin: 20px;
+
+}
+
+
+
+
+
+
+
+</style>
+</head>
+</html>
+
+

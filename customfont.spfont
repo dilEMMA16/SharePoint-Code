@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<s:fontScheme name="Xylos" previewSlot1="title" previewSlot2="body" xmlns:s="http://schemas.microsoft.com/sharepoint/">
+  <s:fontSlots>
+    <s:fontSlot name="title">
+      <s:latin typeface="Helvetica Neue" />
+      <s:ea typeface="" />
+      <s:cs typeface="Helvetica Neue" />
+    </s:fontSlot>
+    <s:fontSlot name="navigation">
+      <s:latin typeface="Helvetica Neue" />
+      <s:ea typeface="" />
+      <s:cs typeface="Helvetica Neue" />
+    </s:fontSlot>
+    <s:fontSlot name="small-heading">
+      <s:latin typeface="Helvetica Neue" />
+      <s:ea typeface="" />
+      <s:cs typeface="Helvetica Neue" />
+    </s:fontSlot>
+    <s:fontSlot name="heading">
+      <s:latin typeface="Helvetica Neue" />
+      <s:ea typeface="" />
+      <s:cs typeface="Helvetica Neue" />
+    </s:fontSlot>
+    <s:fontSlot name="large-heading">
+      <s:latin typeface="Helvetica Neue" />
+      <s:ea typeface="" />
+      <s:cs typeface="Helvetica Neue" />
+    </s:fontSlot>
+    <s:fontSlot name="body">
+      <s:latin typeface="Helvetica Neue" />
+      <s:ea typeface="" />
+      <s:cs typeface="Helvetica Neue" />
+    </s:fontSlot>
+    <s:fontSlot name="large-body">
+      <s:latin typeface="Helvetica Neue" />
+      <s:ea typeface="" />
+      <s:cs typeface="Helvetica Neue" />
+    </s:fontSlot>
+  </s:fontSlots>
+</s:fontScheme>
