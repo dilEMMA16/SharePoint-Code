@@ -1,0 +1,102 @@
+
+
+<html>
+<head>
+<style>
+
+
+
+.ms-core-pageTitle, .ms-core-pageTitle a {
+
+font-size: 57px;
+
+}
+
+
+.ms-rteTableEvenCol-0 {
+
+background-color: #f2f2f2;
+text-align: center;
+
+}
+
+
+
+
+.ms-rteTable-default > tbody > tr > td, .ms-rteTable-default > tbody > tr > th, .ms-rteTable-0 > tbody > tr > td, .ms-rteTable-0 > tbody > tr > th, .ms-rteTable-1 > tbody > tr > td, .ms-rteTable-1 > tbody > tr > th, .ms-rteTable-2 > tbody > tr > td, .ms-rteTable-2 > tbody > tr > th, .ms-rteTable-3 > tbody > tr > td, .ms-rteTable-3 > tbody > tr > th, .ms-rteTable-4 > tbody > tr > td, .ms-rteTable-4 > tbody > tr > th, .ms-rteTable-5 > tbody > tr > td, .ms-rteTable-5 > tbody > tr > th, .ms-rteTable-6 > tbody > tr > td, .ms-rteTable-6 > tbody > tr > th, .ms-rteTable-7 > tbody > tr > td, .ms-rteTable-7 > tbody > tr > th, .ms-rteTable-8 > tbody > tr > td, .ms-rteTable-8 > tbody > tr > th, .ms-rteTable-9 > tbody > tr > td, .ms-rteTable-9 > tbody > tr > th, .ms-rteTable-10 > tbody > tr > td, .ms-rteTable-10 > tbody > tr > th
+
+{
+
+padding: 30px 35px 30px;
+
+}
+
+
+
+
+
+.ms-core-listMenu-horizontalBox ul, .ms-core-listMenu-horizontalBox li, .ms-core-listMenu-horizontalBox .ms-core-listMenu-item, .ms-core-listMenu-horizontalBox > ul > li > table {
+
+margin-top: 6px;
+
+}
+
+
+
+
+#sideNavBox {
+
+background-color: #a4a9ad;
+margin-right: 15px;
+max-width: 200px;
+display: none; 
+}
+
+
+
+
+a, .ms-link:visited {
+
+color: #636466;
+}
+
+
+
+.ms-core-listMenu-horizontalBox a.ms-core-listMenu-item:hover, .ms-core-listMenu-horizontalBox a.ms-core-listMenu-selected.ms-core-listMenu-item:hover, a.ms-tv-item:hover, a.ms-tv-header:hover {
+
+color: #636466;
+}
+
+
+
+#DatePickerDiv{
+
+background-color: #ffffff;
+padding-bottom: 13px;
+
+}
+
+
+
+
+.ms-pub-contentLayout {
+
+width: 1140px;
+border-style: solid;
+    border-color: #a4a9ad;
+    border-width: 8px;
+    margin: 20px;
+
+}
+
+
+
+
+
+
+
+</style>
+</head>
+</html>
+
+
